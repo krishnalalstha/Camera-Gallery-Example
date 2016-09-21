@@ -2,32 +2,58 @@
 <items version="2" >
 
     <item
-        jar="/Users/tag/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-eaf0de57caf8497ca519a48f306fe0f1d11aba81.jar" />
+        sha1="d972549dfb153e91bfdc8e15220cb451c421ec87">
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3843a18b2bad558eba58c87d8a15eca03a4ed79a/classes.dex" />
     </item>
     <item
-        jar="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ba536a4736590dd3bdd81dd40bdac049cf613b17.jar" />
+        sha1="929b3e4cd7521264c96268c49e781dd0b599e5fa">
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c45e8ac798503599e9ea0c705b9e20f808472ebe/classes.dex" />
     </item>
     <item
-        jar="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/pre-dexed/debug/classes-55bfdcac5974a84e329703313ab253a3b8157f4f.jar" />
-    </item>
-    <item
-        jar="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/tag/AndroidStudioProjects/AndroidTutorialProjects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master 2/app/build/intermediates/pre-dexed/debug/classes-e6aa954694b2b35f6b0c6ba5b4f9a593783910d6.jar" />
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_e60674388b415ac00fb67a5113c61c520b376efe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Software/android_studio/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_fa00010a9ca3e351f78fa2a4e9fb6b85eb9fcc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_515e3f44c4dd785f3f43e723b96a77c72ce50ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/krishna/projects/android_projects/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_1dba277b656a536b3ed8f3f21c1d5e4b527d9329/classes.dex" />
     </item>
 
 </items>
